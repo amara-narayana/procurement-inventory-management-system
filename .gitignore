@@ -48,3 +48,9 @@ yarn-error.log*
 Thumbs.db
 *.log
 .env
+
+### Packaging & Release Build Artifacts ###
+dist-package/
+package-build/
+*.7z
+
